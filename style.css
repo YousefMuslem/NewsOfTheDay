@@ -1,0 +1,18 @@
+#qoutBody {
+    font-size: 33px !important;
+    color:#ff3333 !important;
+    font-family: 'Permanent Marker', cursive
+}
+.qoutAuthor {
+    font-size: 25px !important
+}
+.btn {
+    border-radius: 0px
+}
+.btn:focus {
+    outline: none
+}
+a {
+    pointer-events: none;
+     
+}
